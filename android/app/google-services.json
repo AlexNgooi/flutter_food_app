@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333417004426",
+    "project_id": "shopping-platform-1ac55",
+    "storage_bucket": "shopping-platform-1ac55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333417004426:android:81537a6f012ff846555c73",
+        "android_client_info": {
+          "package_name": "com.dbestech.restaurant_foodly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqURJWYRIt9z3gkXYGNtGDwjz1Ka5bH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
